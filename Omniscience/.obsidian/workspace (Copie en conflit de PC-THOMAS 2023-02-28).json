@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd515be080de6939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9ddb0ea6131453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 INBOX/Projet d'AJFR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e06835d6a3246fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 CASQUETTES/Sport/Sport alimentation/Batching Repas + Courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6fa53903cc88b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 CASQUETTES/Proches/Activité Couple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8cdd3d2afa3aeb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESSOURCES/Marketing/Template Marketing - Création de LP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "montage",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 CASQUETTES/Proches/Activité Couple.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 CASQUETTES/Proches/Activité Couple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 CASQUETTES/Proches/Activité Couple.md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1f2338c1fa83a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f6fa53903cc88b7f",
+  "lastOpenFiles": [
+    "1 PROJETS/Formations AJFR/1. Projet AJFR WebFlow.md",
+    "2 CASQUETTES/Sport/Sport alimentation/Batching Repas + Courses.md",
+    "0 INBOX/Entretien.md",
+    "0 INBOX/Projet d'AJFR.md",
+    "3 RESSOURCES/Marketing/Template Marketing - Création de LP.md",
+    "3 RESSOURCES/Shorts, Tiktok, Réels/~$LIVRE BLANC.pptx",
+    "1 PROJETS/Concours/Powerpoint Année 3 FA Rentrée 2022 VF.pdf",
+    "1 PROJETS/Formations AJFR/X. Idées pour la plateforme avocat.md",
+    "1 PROJETS/Crypto Organizer/Roadmap V1 Crypto Organizer.md",
+    "0 INBOX/Où arrêter la technologie.md",
+    "5 GARDEN/Notes/Bases biologique du bonheur.md",
+    "1 PROJETS/Formations AJFR/3. AJFR secrétaire juridique.md",
+    "1 PROJETS/Formations AJFR/1. Projet AJFR Landing Page Duplication.md",
+    "1 PROJETS/Formations AJFR/2. AJFR Digiforma.md",
+    "4 ARCHIVE/LP exemple.PNG",
+    "2023-02-23.md"
+  ]
+}

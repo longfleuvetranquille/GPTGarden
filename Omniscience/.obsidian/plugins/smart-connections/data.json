@@ -1,0 +1,114 @@
+{
+  "new_user": false,
+  "legacy_transformers": false,
+  "enable_mobile": false,
+  "actions": {
+    "lookup": true
+  },
+  "smart_notices": {
+    "muted": {
+      "embedding_progress": true,
+      "no_context": true,
+      "Notice_muted": true,
+      "ENOENT__no_such_file_or_directory__open__C__Users_Utilisateur_Desktop_Atomic_Notes_Thomas_Sync___smart-chats_UNTITLED_CHAT_2024-10-09_00_15_23_md_": true,
+      "error_in_embedding_search": true
+    }
+  },
+  "system_prompts_folder": "smart prompts",
+  "smart_chat_folder": "smart-chats",
+  "smart_chat_folder_last": "smart-chats",
+  "chat_model_platform_key": "openai",
+  "open_router": {
+    "api_key": "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",
+    "model_name": "01-ai/yi-34b",
+    "description": "Yi 34B (base)",
+    "type": "API",
+    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+    "streaming": true,
+    "fetch_models": true,
+    "default_model": "mistralai/mistral-7b-instruct:free",
+    "signup_url": "https://accounts.openrouter.ai/sign-up?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fkeys",
+    "key": "01-ai/yi-34b",
+    "max_input_tokens": 4096,
+    "actions": false,
+    "multimodal": false,
+    "raw": {
+      "id": "01-ai/yi-34b",
+      "name": "Yi 34B (base)",
+      "description": "The Yi series models are large language models trained from scratch by developers at [01.AI](https://01.ai/). This is the base 34B parameter model.",
+      "pricing": {
+        "prompt": "0.00000072",
+        "completion": "0.00000072",
+        "image": "0",
+        "request": "0"
+      },
+      "context_length": 4096,
+      "architecture": {
+        "modality": "text",
+        "tokenizer": "Yi",
+        "instruct_type": "none"
+      },
+      "top_provider": {
+        "max_completion_tokens": null,
+        "is_moderated": false
+      },
+      "per_request_limits": null
+    }
+  },
+  "api_key": "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",
+  "excluded_headings": "",
+  "folder_exclusions": "",
+  "show_full_path": false,
+  "expanded_view": false,
+  "language": "fr",
+  "version": "2.2.81",
+  "chat_folder": "smart chat",
+  "smart_notes_embed_model": "text-embedding-3-small",
+  "smart_blocks_embed_model": "TaylorAI/bge-micro-v2",
+  "smart_connections_folder": ".smart-connections",
+  "smart_connections_folder_last": ".smart-connections",
+  "local_embedding_max_tokens": 2048,
+  "embedding_file_per_note": false,
+  "embed_input_min_chars": 50,
+  "multi_heading_blocks": true,
+  "file_exclusions": "Untitled",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "chat_open": true,
+  "header_exclusions": "",
+  "path_only": "",
+  "group_nearest_by_file": false,
+  "skip_sections": false,
+  "smart_chat_model": "gpt-4-turbo-preview",
+  "view_open": true,
+  "results_count": 30,
+  "failed_files": [
+    "1 PROJETS/AJFR/AVOCAT SPÉCIALISÉ/RoadMap - Avocat spé.md",
+    "1 PROJETS/AJFR/LE SYSTEME LINKEDIN/RoadMap - Le système LinkedIn.md"
+  ],
+  "openai": {
+    "api_key": "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",
+    "model_name": "gpt-4-turbo",
+    "description": "context: 128000, output: 4096",
+    "type": "API",
+    "endpoint": "https://api.openai.com/v1/chat/completions",
+    "streaming": true,
+    "actions": true,
+    "fetch_models": true,
+    "default_model": "gpt-3.5-turbo",
+    "signup_url": "https://platform.openai.com/api-keys",
+    "key": "gpt-4-turbo",
+    "multimodal": true,
+    "max_input_tokens": 128000
+  },
+  "muted_notices": {
+    "ENOENT: no such file or directory, open 'C:\\Users\\Utilisateur\\Desktop\\Atomic Notes Thomas Sync ✅\\smart-chats\\.md'": true,
+    "Notice muted": true,
+    "api key test pass": true,
+    "start embedding": true,
+    "no smart connections found": true,
+    "no embedding found": true,
+    "done embedding": true
+  }
+}

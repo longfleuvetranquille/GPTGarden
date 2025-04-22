@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d68c4f358fc0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32cb39c3a3a910b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 INBOX/Travail asynchrone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b7a348dcf7a8f35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introspection/Atelier d’introspection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 INBOX/Travail asynchrone.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 INBOX/Travail asynchrone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 INBOX/Travail asynchrone.md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1f2338c1fa83a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "32cb39c3a3a910b5",
+  "lastOpenFiles": [
+    "LA CANALE 2",
+    "Sans titre",
+    "0 INBOX/Année idéale.md",
+    "Introspection/Année idéale.md",
+    "0 INBOX/Travail asynchrone.md",
+    "Introspection/Journée idéale.md",
+    "Introspection",
+    "Introspection/Atelier d’introspection.md",
+    "6 TOOLS/Habitudes que j'ai pris l'habitude de faire que je devrais mettre dans un planning.md",
+    "6 TOOLS/Emergency Kit 1Password A3-KKGBSN-team-ajfr.pdf",
+    "6 TOOLS/Batching Repas + Courses.md",
+    "5 GARDEN/Journal/La note du jour/2023-04-12.md",
+    "2 CASQUETTES/Idées AJFR/Avalanche d'idées.md",
+    "3 RESSOURCES/Webflow/Webflow tuto cool.md",
+    "5 GARDEN/Journal/Life Phase/3 Focus sur l'essentiel/2023-W15.md",
+    "3 RESSOURCES/Webflow",
+    "1 PROJETS/AJFR/SEO pour AJFR/SEO Questions et idées.md",
+    "1 PROJETS/AJFR/Slack/Communiquer efficacement chez AJFR.md",
+    "1 PROJETS/AJFR/Secrétaire Juridique (Niveau 4)/Road Map Secrétaire Juridique (Niveau 4).md",
+    "1 PROJETS/AJFR/Recrutement/Road Map Recrutement.md",
+    "1 PROJETS/AJFR/GADS/SETUP.md",
+    "1 PROJETS/AJFR/Formations pour avocats/Road Map Formations pour avocats.md",
+    "5 GARDEN/Notes/Adaptation hédoniste.md",
+    "5 GARDEN/Notes/Bases biologique du bonheur.md",
+    "5 GARDEN/Notes/Biais des coûts irrécupérables.md",
+    "3 RESSOURCES/Boxe/Vieux Nice la Semeuse.md",
+    "3 RESSOURCES/Boxe",
+    "0 INBOX/Altruisme efficace.md",
+    "1 PROJETS/AJFR/Recrutement/recrutement idée.md",
+    "1 PROJETS/AJFR/Automatiser DIGIFORMA/Idées digiforma.md",
+    "1 PROJETS/AJFR/GADS",
+    "5 GARDEN/Notes/Commencez par des éloges sincères.md",
+    "5 GARDEN/Journal/La note du jour",
+    "1 PROJETS/AJFR/Slack",
+    "6 TOOLS/Rencontres",
+    "1 PROJETS/AJFR/SEO pour AJFR",
+    "4 ARCHIVE/LP exemple.PNG",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124030017.png",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124025951.png",
+    "1 PROJETS/Formations AJFR/123025886_3472432592805611_5702596936740040378_n.jpg",
+    "1 PROJETS/Formations AJFR/124410667_3397558100293439_620035574134038354_n.jpg",
+    "1 PROJETS/Formations AJFR/VUE_GENERALE2.jpg",
+    "1 PROJETS/Formations AJFR/sac-croco-beige-petales-400x533.jpg",
+    "1 PROJETS/Formations AJFR/124087937_3378151722222765_8465048060621997344_n.jpg",
+    "1 PROJETS/Formations AJFR/123944679_3488441064583727_9138489216688012141_n.jpg",
+    "1 PROJETS/Formations AJFR/123863038_3506416316116528_213541347742730430_n.jpg",
+    "Sans titre.canvas"
+  ]
+}

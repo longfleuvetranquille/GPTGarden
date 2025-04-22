@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "openNewNote": true,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "5 GARDEN/Notes",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "[[{{new_note_title}}]]",
+  "refactoredNoteTemplate": "- MOC : [[COPYWRITING]] - [[MARKETING]]\n- Date : Janvier 2025\n- Source : [[{{title}}]]\n\n---\n\n{{new_note_content}}",
+  "normalizeHeaderLevels": false
+}

@@ -1,0 +1,14 @@
+{
+  "token": "I7A9lxatiThKGUBvqD4bEBnVS6as59zWjAIkRArkY6aRdjfJX9",
+  "readwiseDir": "3 RESSOURCES/À traiter",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 8952414,
+  "currentSyncStatusID": 0,
+  "refreshBooks": true,
+  "booksToRefresh": [],
+  "booksIDsMap": {},
+  "reimportShowConfirmation": true
+}

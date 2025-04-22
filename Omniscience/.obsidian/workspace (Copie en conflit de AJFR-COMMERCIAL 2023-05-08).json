@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f54e0928851b47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8b1faf956806be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESSOURCES/AI/Les sites d'IA (intelligence artificial).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "think",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcbec416037d2e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 RESSOURCES/AI/Les sites d'IA (intelligence artificial).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 RESSOURCES/AI/Les sites d'IA (intelligence artificial).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 RESSOURCES/AI/Les sites d'IA (intelligence artificial).md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1f2338c1fa83a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3e8b1faf956806be",
+  "lastOpenFiles": [
+    "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W19.md",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/Statuts SAS Thomas et Rafael.pdf",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/Statuts SAS Thomas et Rafael.docx",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/Liste des souscripteurs de la SAS makamb.pdf",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/Liste des souscripteurs de la SAS makamb.docx",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/ImpotsInfos.pdf",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/DG.docx",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/Contrat dapport en nature.docx",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/CI Raf.jpeg",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/certificat_de_depot.pdf",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/cerfa_13959-08 (1).pdf",
+    "3 RESSOURCES/2 CASQUETTES/Administratif - Makamb/Créa/Carte ID Tom Conforme.pdf",
+    "3 RESSOURCES/2 CASQUETTES/Proches/Idee cadeaux.md",
+    "3 RESSOURCES/2 CASQUETTES/Proches/Activité à faire avec des potes.md",
+    "3 RESSOURCES/2 CASQUETTES/Idées AJFR/Avalanche d'idées.md",
+    "3 RESSOURCES/2 CASQUETTES/Proches/Activité Couple.md",
+    "3 RESSOURCES/2 CASQUETTES/Habitat/House of dreaming.md",
+    "5 GARDEN/Notes/Atomic Thinking.md",
+    "2 CASQUETTES/Idées AJFR/Avalanche d'idées.md",
+    "6 TOOLS/FORMATIONS - TOOLS.md",
+    "0 INBOX/Reu baba.md",
+    "0 INBOX/2023-05-01.md",
+    "5 GARDEN/Notes/Loi de Metcalfe.md",
+    "4 ARCHIVE/Pasted image 20230505114123.png",
+    "4 ARCHIVE/2023-04-21.md",
+    "6 TOOLS/LIVRE - TOOLS.md",
+    "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/Intention 4.md",
+    "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W18.md",
+    "3 RESSOURCES/Marketing/Définir un persona.md",
+    "4 ARCHIVE/Sociologie/Jean-Paul Brughelli - La fabrique du con.md",
+    "4 ARCHIVE/Sociologie/Création d'artciles dans le monse socioprofessionnels des 2 personas.md",
+    "4 ARCHIVE/Productivité/Livre à lire pour apprendre.md",
+    "3 RESSOURCES/Marketing/Ressources Marketing.md",
+    "3 RESSOURCES/Entreprenariat/Vidéo pour se poser les bonnes questions.md",
+    "3 RESSOURCES/Anthropologie/Questions séduction.md",
+    "3 RESSOURCES/Anthropologie/Livre à lire anthropologie.md",
+    "6 TOOLS/BATCHING REPAS - TOOLS.md",
+    "6 TOOLS/HABITUDES - TOOLS.md",
+    "5 GARDEN/Journal/Life Phase/Introspection/Vision Board.PNG",
+    "4 ARCHIVE/Pasted image 20230413202237.png",
+    "Pasted image 20230413202237.png",
+    "4 ARCHIVE/LP exemple.PNG",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124030017.png",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124025951.png",
+    "1 PROJETS/Formations AJFR/123025886_3472432592805611_5702596936740040378_n.jpg",
+    "1 PROJETS/Formations AJFR/124410667_3397558100293439_620035574134038354_n.jpg",
+    "Sans titre.canvas"
+  ]
+}

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+glob2
+langchain
+langchain-community
+chromadb
+openai
+watchdog

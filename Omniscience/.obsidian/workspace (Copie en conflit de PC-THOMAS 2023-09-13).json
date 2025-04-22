@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3b8b2bfb674cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d98e0d59cfc3c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESSOURCES/Readwise 📕/Books/Votre empire dans un sac à dos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec68b0dc0ac3bd9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 INBOX/Le Mom Test - Comment Parler Avec les Clients et Apprendre si Votre Idée d'Entreprise est Bonne, Quand Tout le Monde Vous Ment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f684fab5ba02013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 TOOLS/LIVRE - TOOLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcbec416037d2e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 TOOLS/LIVRE - TOOLS.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 TOOLS/LIVRE - TOOLS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 TOOLS/LIVRE - TOOLS.md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d51c878807b628bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c22929fe3a22c0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "deade60b4c0e5983",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a47159b31de37b5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4a47159b31de37b5",
+  "lastOpenFiles": [
+    "5 GARDEN/Notes/Combien de réunions sont utiles.md",
+    "5 GARDEN/Notes/Parler uniquement de leurs problèmes, préoccupations, objectifs.md",
+    "5 GARDEN/Notes/Comment effectuer une tâche difficile.md",
+    "5 GARDEN/Notes/Être spontané pour obtenir des meilleures réponses.md",
+    "5 GARDEN/Notes/Préparez une liste de 3.md",
+    "5 GARDEN/Notes/Comment savoir si notre segment est bon.md",
+    "1 PROJETS/PREPA PASS/2. Problèmes, désirs, peurs, besoin.md",
+    "5 GARDEN/Notes/Éviter les compliments.md",
+    "5 GARDEN/Notes/Comment cadrer une réunion d'information.md",
+    "5 GARDEN/Notes/Comprendre la vraie motivation d'une personne.md",
+    "5 GARDEN/Notes/Les startups ne meurent pas de faim, elles se noient..md",
+    "5 GARDEN/Notes/Syndrome du Pathos.md",
+    "5 GARDEN/Notes/Quels sont les engagements qui ont de la valeur.md",
+    "5 GARDEN/Notes/Liste questions non exhaustives.md",
+    "5 GARDEN/Notes/Diriger le processus.md",
+    "5 GARDEN/Notes/3 principes de base du Mom Test.md",
+    "5 GARDEN/Notes/Pour qui se faire passer pour engager la discussion.md",
+    "5 GARDEN/Notes/Comment répondre aux personnes qui demandent sur quoi nous travaillons.md",
+    "2 CASQUETTES/Idées en vrac/vitre des supermarchés.md",
+    "2 CASQUETTES/Proches/Activité Couple.md",
+    "0 INBOX/Le Mom Test - Comment Parler Avec les Clients et Apprendre si Votre Idée d'Entreprise est Bonne, Quand Tout le Monde Vous Ment.md",
+    "3 RESSOURCES/Readwise 📕/Books/Le personal MBA.md",
+    "3 RESSOURCES/Readwise 📕/Books/La Crise Financière Française de 1789-1799.md",
+    "3 RESSOURCES/Readwise 📕/Books/Comprendre la nature humaine.md",
+    "3 RESSOURCES/Readwise 📕/Books/Arrêtez d'oublier ce que vous lisez !.md",
+    "1 PROJETS/ÉRIC LARCHEVEQUE/liste question non exhaustive.md",
+    "1 PROJETS/ÉRIC LARCHEVEQUE",
+    "1 PROJETS/AJFR/CABINET MINIMALISTE/Cabinet Minimaliste (1).mindnode",
+    "Sans titre.canvas",
+    "1 PROJETS/THOMAS CHÔMAGE",
+    "1 PROJETS/PREPA PASS",
+    "2 CASQUETTES/Life Phase/7 Nouveau départ",
+    "3 RESSOURCES/Éducation",
+    "3 RESSOURCES/Philosophie",
+    "3 RESSOURCES/Investissement & Gestion",
+    "3 RESSOURCES/Gestion du temps",
+    "3 RESSOURCES/Gestion des connaissances",
+    "5 GARDEN/IMG - PNG/Pasted image 20230823120526.png",
+    "stripe_payment_links.png",
+    "2 CASQUETTES/Life Phase/Introspection/Vision Board.PNG",
+    "5 GARDEN/Pièces jointes - Doc important/Pasted image 20230124030017.png",
+    "5 GARDEN/Pièces jointes - Doc important/Pasted image 20230124025951.png",
+    "4 ARCHIVE/image (1) 1.png",
+    "4 ARCHIVE/image (1).png",
+    "4 ARCHIVE/Pasted image 20230628111142.png",
+    "Pasted image 20230628111142.png",
+    "3 RESSOURCES/Soirée autour de Nice/2191A852-A131-4680-9BC3-262C09434788.png"
+  ]
+}

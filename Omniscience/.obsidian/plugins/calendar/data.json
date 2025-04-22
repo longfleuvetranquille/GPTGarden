@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "5 GARDEN/Modèles/Note semaine",
+  "weeklyNoteFolder": "Life Phase/",
+  "localeOverride": "system-default"
+}

@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c253853e3ba7338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72e216eda08c9203",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Promesse",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcbec416037d2e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1f2338c1fa83a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "20e59fb24fae0b68",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a7e88e15129e5b5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2df63d71a4fbf94c",
+  "lastOpenFiles": [
+    "5 GARDEN/Modèles/Phase de vie - Intention.md",
+    "1 PROJETS/AJFR/CABINET MINIMALISTE/CABINET MINIMALISTE - 1er jet.md",
+    "1 PROJETS/AJFR/AVOCAT SPÉCIALISÉ/AVOCAT SPÉCIALISÉ - Infos.md",
+    "2 CASQUETTES/Life Phase/5 Habitudes mouvantes/Intention 5.md",
+    "2 CASQUETTES/Life Phase/5 Habitudes mouvantes/Planification 5.md",
+    "2 CASQUETTES/Life Phase/Introspection/Vision de Thomas.C.md",
+    "2 CASQUETTES/Life Phase/Introspection/Vision Board.PNG",
+    "2 CASQUETTES/Life Phase/Introspection/Atelier d’introspection.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/Bilan 3.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W17.md",
+    "2 CASQUETTES/Life Phase/5 Habitudes mouvantes/2023-W24.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/Intention 4.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/Bilan 4.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/2023-W22.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/2023-W23.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/2023-W18.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/2023-W20.md",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes/2023-W19.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/Intention 3.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W16.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W15.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W14.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W11.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W13.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W12.md",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel/2023-W10.md",
+    "2 CASQUETTES/Life Phase/2 Révision, travail, 2ème naissance/Intention 2.md",
+    "2 CASQUETTES/Life Phase/Introspection",
+    "2 CASQUETTES/Life Phase/5 Habitudes mouvantes",
+    "2 CASQUETTES/Life Phase/4 Ail et fines herbes",
+    "2 CASQUETTES/Life Phase/3 Focus sur l'essentiel",
+    "2 CASQUETTES/Life Phase/2 Révision, travail, 2ème naissance",
+    "2 CASQUETTES/Life Phase/1 Rencontre rime avec apprendre",
+    "2 CASQUETTES/Life Phase",
+    "3 RESSOURCES/A traiter plus tard",
+    "1 PROJETS/AJFR/ANTI-IMPAYÉ",
+    "1 PROJETS/AJFR/RPVA EXPRESS",
+    "3 RESSOURCES/Soirée autour de Nice/2191A852-A131-4680-9BC3-262C09434788.png",
+    "Sans titre.canvas",
+    "3 RESSOURCES/Soirée autour de Nice/53E148E9-93FF-46C3-9A8F-EB404D5DBC47.png",
+    "3 RESSOURCES/Soirée autour de Nice/DED94CBA-34A0-4591-9310-0E1E0C1F17C9.png",
+    "2 CASQUETTES/Habitat/F1AD8966-AA1B-4C8B-9643-69BCF5F9C009.jpeg",
+    "2 CASQUETTES/Habitat/D9E0021E-8ED0-49CA-B3D8-C4FEB92FA5B1.jpeg",
+    "2 CASQUETTES/Habitat/1BF4E5AE-F67A-4924-BED0-ACF44FC1708D.jpeg",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124030017.png",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124025951.png",
+    "5 GARDEN/Journal/Life Phase/Introspection/Vision Board.PNG"
+  ]
+}

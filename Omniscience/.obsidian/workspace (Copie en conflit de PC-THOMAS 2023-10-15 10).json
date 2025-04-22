@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d288c62d5331d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa1ffcc7847953d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 RESSOURCES/Marketing/Ressources Marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcbec416037d2e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 RESSOURCES/Marketing/Ressources Marketing.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 RESSOURCES/Marketing/Ressources Marketing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 RESSOURCES/Marketing/Ressources Marketing.md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d51c878807b628bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "31e57d73a3373036",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "b7a9d47daddb8761",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a41cf7a2d36a1fa0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2aa1ffcc7847953d",
+  "lastOpenFiles": [
+    "1 PROJETS/AJFR FB-YT Ads/Florian appel.md",
+    "2 CASQUETTES/Idées en vrac/Minimum Viable SDF.md",
+    "2 CASQUETTES/Idées en vrac/Sans titre.md",
+    "5 GARDEN/Notes/Courir une course de 10km en -40min.md",
+    "1 PROJETS/ATOMIC JURIDIQUE/Eliott Formation.md",
+    "1 PROJETS/ATOMIC JURIDIQUE",
+    "1 PROJETS/Sans titre",
+    "2 CASQUETTES/Expert Récompensé/MÉTHODOLOGIE/Reporter.md",
+    "2 CASQUETTES/Expert Récompensé/MÉTHODOLOGIE/Créateur d'un référentiel.md",
+    "2 CASQUETTES/Expert Récompensé/MÉTHODOLOGIE",
+    "2 CASQUETTES/Expert Récompensé",
+    "1 PROJETS/DIMITRI/REFONTE/Bazar idée.md",
+    "1 PROJETS/DIMITRI/REFONTE/Road Map.md",
+    "1 PROJETS/DIMITRI/PREPA PASS/2. Problèmes, désirs, peurs, besoin.md",
+    "1 PROJETS/DIMITRI/PREPA PASS/1. Marché documentaire sur la concurrence.md",
+    "1 PROJETS/DIMITRI/PREPA PASS/0. ROADMAP PREPA PASS.md",
+    "1 PROJETS/DIMITRI/PREPA PASS/0. Ressources intéressantes.md",
+    "1 PROJETS/DIMITRI/PREPA PASS/0. Prepa PASS.md",
+    "1 PROJETS/DIMITRI/REFONTE",
+    "1 PROJETS/DIMITRI/PREPA PASS",
+    "1 PROJETS/DIMITRI",
+    "1 PROJETS/BARBARA MASSAGE/PB MASSAGE BABA.md",
+    "1 PROJETS/BARBARA MASSAGE",
+    "1 PROJETS/AJFR/BAUX COMMERCIAUX EVOLUTION/TEMPLATE.pptx",
+    "1 PROJETS/AJFR/BAUX COMMERCIAUX EVOLUTION/Road Map Baux Commerciaux.md",
+    "1 PROJETS/AJFR/AVOCAT SPÉCIALISÉ/RoadMap - Avocat spé.md",
+    "1 PROJETS/AJFR/AVOCAT SPÉCIALISÉ/AVOCAT SPÉCIALISÉ - Infos.md",
+    "1 PROJETS/AJFR/BAUX COMMERCIAUX EVOLUTION",
+    "0 INBOX/2023-10-15.md",
+    "0 INBOX/Eliott Formation.md",
+    "3 RESSOURCES/Marketing/Ressources Marketing.md",
+    "0 INBOX/LinkedIn.md",
+    "0 INBOX/Florian appel.md",
+    "3 RESSOURCES/Readwise 📕/Books/Secrets d'expert - E-commerce  comment convertir vos visiteurs en clients.md",
+    "0 INBOX/Proposer à Eliott la formation création de société.md",
+    "4 ARCHIVE/CABINET MINIMALISTE/CABINET MINIMALISTE - 2ème jet.md",
+    "5 GARDEN/IMG - PNG/692839AC-D508-408A-A66C-BE3AF2A6113A.jpeg",
+    "5 GARDEN/Pièces jointes - Doc important/Pasted image 20230124030017.png",
+    "5 GARDEN/Pièces jointes - Doc important/Pasted image 20230124025951.png",
+    "4 ARCHIVE/Capture.PNG.png",
+    "5 GARDEN/IMG - PNG/Pasted image 20230823120526.png",
+    "Sans titre.canvas",
+    "stripe_payment_links.png",
+    "2 CASQUETTES/Life Phase/Introspection/Vision Board.PNG",
+    "4 ARCHIVE/image (1) 1.png",
+    "4 ARCHIVE/image (1).png",
+    "4 ARCHIVE/Pasted image 20230628111142.png"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Wasp",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "First level folder bg (Title only)",
+    "Colored Folders for Blue Topaz"
+  ],
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}

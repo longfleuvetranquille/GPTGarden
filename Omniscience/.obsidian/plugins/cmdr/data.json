@@ -1,0 +1,64 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h2",
+      "icon": "align-horizontal-space-between",
+      "name": "Split H2",
+      "mode": "any",
+      "color": "#ac771b"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h3",
+      "icon": "align-justify",
+      "name": "Split H3",
+      "mode": "any",
+      "color": "#ce9927"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "Note quotidienne",
+      "mode": "any",
+      "color": "#3cbfc8"
+    },
+    {
+      "id": "quickadd:choice:29f69c53-de94-4977-9eeb-c3988cd65793",
+      "icon": "airplay",
+      "name": "QuickAdd: Modèles",
+      "mode": "any",
+      "color": "#cd6565"
+    },
+    {
+      "id": "obsidian-importer:open-modal",
+      "icon": "aperture",
+      "name": "Importer: Open importer",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

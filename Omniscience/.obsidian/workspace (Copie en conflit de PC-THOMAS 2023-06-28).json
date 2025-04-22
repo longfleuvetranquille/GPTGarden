@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6576ee08ab562cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a94b05682216a8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 ARCHIVE/Crypto Organizer/Mission + Publicité/Publicité l'Excellence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "119043e1263a4c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 GARDEN/Notes/Le différencialisme féministe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "294694398998374c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 TOOLS/BATCHING REPAS - TOOLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "066ba9810036431d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 GARDEN/Notes/L'effet Lindy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Promesse",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcbec416037d2e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 ARCHIVE/Crypto Organizer/Mission + Publicité/Publicité l'Excellence.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 ARCHIVE/Crypto Organizer/Mission + Publicité/Publicité l'Excellence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 ARCHIVE/Crypto Organizer/Mission + Publicité/Publicité l'Excellence.md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1f2338c1fa83a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9bd3af6bbf453bb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0898ce4109e65cb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "a94b05682216a8d3",
+  "lastOpenFiles": [
+    "Pasted image 20230628111142.png",
+    "5 GARDEN/Notes/La fabrique du crétin.md",
+    "5 GARDEN/Notes/Solutions pour réussir l'immigration de population étrangère.md",
+    "5 GARDEN/Notes/Innumérisme.md",
+    "5 GARDEN/Notes/Pourquoi ce n'est pas la faute des immigrés si l'intégration n'a pas eu lieu.md",
+    "5 GARDEN/Notes/Classement des populations à l'école des populations issues de l'immigration.md",
+    "5 GARDEN/Notes/Quand une personne est manipulable, on dit.md",
+    "5 GARDEN/Notes/Comment fonctionnait l'après école primaire avant le collège unique.md",
+    "5 GARDEN/Notes/Pourquoi le moi est haïssable.md",
+    "5 GARDEN/Notes/Psittacisme.md",
+    "5 GARDEN/Notes/Pourquoi les filles doivent elles avoir une éducation séparée des garçons.md",
+    "5 GARDEN/Notes/Quand et comment l'école républicaine a commencé à se détériorer.md",
+    "5 GARDEN/Notes/La lecture comme conversation rétroactive.md",
+    "5 GARDEN/Notes/Pourquoi cesser d'apprendre le français creuse les inégalités.md",
+    "5 GARDEN/Notes/Pourquoi la langue française a-t-elle commencé à se détériorer.md",
+    "5 GARDEN/Notes/EDUCATION.md",
+    "3 RESSOURCES/Readwise 📕/Books/Essai sur les femmes.md",
+    "5 GARDEN/Notes/Le différencialisme féministe.md",
+    "3 RESSOURCES/Readwise 📕/Books/Arrêtez d'oublier ce que vous lisez !.md",
+    "3 RESSOURCES/Readwise 📕/Books/Comprendre la nature humaine.md",
+    "3 RESSOURCES/Readwise 📕/Articles/þÿPublication Du Dossier - Comment Réussir Sa Désindustrialisation.  Institut Des Libertés.md",
+    "3 RESSOURCES/Readwise 📕/Articles/PDF_document.md",
+    "3 RESSOURCES/Readwise 📕/Articles/MusicGen  L’IA De Meta Pour Transformer Du Texte en Musique 🎵.md",
+    "3 RESSOURCES/Readwise 📕/Articles/Microsoft Word - Mémoire Développement OUI.docx.md",
+    "3 RESSOURCES/Readwise 📕/Articles/La Chaise Magique.md",
+    "3 RESSOURCES/Readwise 📕/Articles/I-Jepa  Enfin Une IA Avec Du Bon Sens  🧐.md",
+    "3 RESSOURCES/Anthropologie/307296879-L-Homme-Subjugue-Vilar-Esther-_1_.txt",
+    "3 RESSOURCES/Anthropologie/319120942-Vilar-Esther-Le-sexe-polygame-pdf.txt",
+    "3 RESSOURCES/Anthropologie/319120942-Vilar-Esther-Le-sexe-polygame-pdf.pdf",
+    "3 RESSOURCES/Anthropologie/307296879-L-Homme-Subjugue-Vilar-Esther.pdf",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/Mood board Gala.docx",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/Mood board bal d'hiver pdf.pdf",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/Devis synops.pdf",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/LOGO LE MAJESTIC.jpg",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/Capture d’écran 2019-10-17 à 11.55.55.png",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/75394776_197779604577209_2615049739351097344_n.jpg",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/Affiche Gala.pdf",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com/76686386_427567171494598_5540944640078774272_n.jpg",
+    "3 RESSOURCES/Évènementiel/RVR/Déco + Com",
+    "3 RESSOURCES/LA CANALE 2",
+    "3 RESSOURCES/Monteur/00_MONTAGES/01_VIDEOS/Bitcoin ethereum crypto.jpg",
+    "4 ARCHIVE/Crypto Organizer/EXCEL - RESSOURCES/Images et vidéos de l'Excel/Sellings.PNG",
+    "4 ARCHIVE/Crypto Organizer/EXCEL - RESSOURCES/Images et vidéos de l'Excel/Premium Excel.PNG",
+    "4 ARCHIVE/Crypto Organizer/EXCEL - RESSOURCES/Images et vidéos de l'Excel/premium excel à envoyer.PNG",
+    "4 ARCHIVE/Crypto Organizer/EXCEL - RESSOURCES/Images et vidéos de l'Excel/Land3.png",
+    "4 ARCHIVE/Crypto Organizer/EXCEL - RESSOURCES/Images et vidéos de l'Excel/Land2.PNG",
+    "Sans titre.canvas"
+  ]
+}

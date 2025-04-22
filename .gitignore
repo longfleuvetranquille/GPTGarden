@@ -1,0 +1,6 @@
+Omniscience/4_ARCHIVE/
+*.mp4
+*.pdf
+*.pptx
+__pycache__/
+.env

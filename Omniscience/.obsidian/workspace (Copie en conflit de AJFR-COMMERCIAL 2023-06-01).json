@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "a07ed678f725d1d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d3ceb0e6b8f6321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6349668873941812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b2ec2f63f6eb17d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84342eef5b8770ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df63d71a4fbf94c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b3a92a3fa2d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b867370111b344c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0324ad0a69016ac4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcbec416037d2e07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "right": {
+    "id": "618baed4ea675f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e47e7d4e65002af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435b9d1c7f90cf2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W22.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59aeaf1e3c284828",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24eb3d88863de8bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ad7479b9075de50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W22.md"
+              }
+            }
+          },
+          {
+            "id": "a0283400569edf7f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1f2338c1fa83a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "6349668873941812",
+  "lastOpenFiles": [
+    "Readwise/Votre empire dans un sac à dos.md",
+    "Readwise/Théorie Du Plus Grand Fou — Wikipédia.md",
+    "Readwise/Tweets From George Mack.md",
+    "Readwise/Comment se faire des amis.md",
+    "Readwise/Arrêtez d'oublier ce que vous lisez !.md",
+    "Readwise/La fabrique du crétin.md",
+    "Readwise/Comprendre la nature humaine.md",
+    "Readwise/Le personal MBA.md",
+    "Readwise/La Crise Financière Française de 1789-1799.md",
+    "Readwise/XY.md",
+    "Readwise/Tweets From Venkh.md",
+    "Readwise",
+    "4 ARCHIVE/Idées vrac plateforme.md",
+    "4 ARCHIVE/Recrutement/Recrutement.md",
+    "4 ARCHIVE/Recrutement/Road Map Recrutement.md",
+    "4 ARCHIVE/Recrutement/Liens utiles Recrutement.md",
+    "4 ARCHIVE/Recrutement",
+    "4 ARCHIVE/Automatisation.md",
+    "4 ARCHIVE/Gestion du temps.md",
+    "4 ARCHIVE/Business pour avocat.md",
+    "1 PROJETS/YOUTUBE/Mindset.md",
+    "0 INBOX/Magique.md",
+    "0 INBOX/Mindset.md",
+    "5 GARDEN/Journal/Life Phase/4 Ail et fines herbes/2023-W22.md",
+    "0 INBOX/Liedu - dit.md",
+    "0 INBOX/ok.md",
+    "0 INBOX/tesy.md",
+    "0 INBOX/Sans titre.md",
+    "3 RESSOURCES/Souvenirs/Souvenir soirée/GX010243.MP4",
+    "5 GARDEN/Pièces jointes/Emergency Kit 1Password A3-KKGBSN-team-ajfr.pdf",
+    "6 TOOLS/Emergency Kit 1Password A3-KKGBSN-team-ajfr.pdf",
+    "5 GARDEN/Archive",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124030017.png",
+    "5 GARDEN/Pièces jointes/Pasted image 20230124025951.png",
+    "3 RESSOURCES/Shorts, Tiktok, Réels/MindMap - Shorts Domination.pdf",
+    "2 CASQUETTES/AJFR",
+    "1 PROJETS/YOUTUBE",
+    "4 ARCHIVE/Formations Atomic Thinking Eliott",
+    "5 GARDEN/Journal/Life Phase/Introspection/Vision Board.PNG",
+    "2 CASQUETTES/Administratif - Makamb/Créa/CI Raf.jpeg",
+    "4 ARCHIVE/Pasted image 20230505114123.png",
+    "4 ARCHIVE/Pasted image 20230413202237.png",
+    "Pasted image 20230413202237.png",
+    "4 ARCHIVE/LP exemple.PNG",
+    "1 PROJETS/Formations AJFR/123025886_3472432592805611_5702596936740040378_n.jpg",
+    "1 PROJETS/Formations AJFR/124410667_3397558100293439_620035574134038354_n.jpg",
+    "Sans titre.canvas"
+  ]
+}
