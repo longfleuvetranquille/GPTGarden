@@ -63,6 +63,10 @@ def startup_event():
     print("⚙️ Indexation démarrée...")
     index_notes()
 
+@app.get("/")
+def root():
+    return {"message": "✅ GPTGarden API en ligne"}
+
 @app.get("/query")
 def query_gpt(question: str = Query(...)):
     results = collection.query(query_texts=[question], n_results=3)
